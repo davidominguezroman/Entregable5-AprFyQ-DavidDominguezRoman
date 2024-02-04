@@ -79,6 +79,34 @@ De los experimentos que se decidieron realizar, finalmente hubo algún cambio, q
 
 Por supuesto, todos colaboramos en cierta medida a la organización, ejecución y limpieza de cada experimento. Se decidió que el experimento del derrame de petróleo se quitara de la lista por no ser lo suficientemente atractivo. El experimento de la sincronización de metrónomos estuvo a punto de verse cancelado por no poder conseguir los metrónomos, pero al final se encontró una manera de obtenerlos.
 
+# Desarrollo del experimento
+
+Mikel Granado Millo y yo, David Domínguez Román, nos encargamos de la realización y explicación del experimento de los metrónomos.
+Laura Puente Pascual se involucró al máximo para poder conseguir unos metrónomos con los que hacer el experimento, hablando con el profesor de música de su hijo, quien no tenía metrónomos pero estaba en un grupo de WhatsApp de profesores de música. Hablando con los otros profesores consiguió cuatro metrónomos, de los cuales tres se utilizaron en el experimento.
+
+Para desarrollar el experimento, se juntaron dos pupitres del aula. Sobre ellos se colocaron dos latas y una plancha de porexpan encima. La disposición de los metrónomos no era muy crítica, dado el tamaño de la plancha. Cuando la plancha es más corta y/o más fina, hay que buscar una buena disposición para evitar que la plancha pierda el apoyo en alguna de las latas. Para la colocación de todo el instrumental, las dos personas colaboramos, algunas veces con ayuda de el resto de compañeras, para agilizar los cambios.
+
+La realización y explicación del experimento necesitó la ayuda de alumnos voluntarios, variando el número según fuera la dinámica del grupo. Mientras que los metrónomos procedían a sincronizarse, se realizaba la explicación de por qué y cómo ocurría, así como relacionarlo con otros fenómenos naturales, como la sincronización de múltiples personas aplaudiendo a la vez, la luminiscencia de grupos de luciérnagas, la sincronización de las tres primeras lunas de Júpiter, o la oscilación exagerada del *Millenium Bridge*, que sufrió durante los primeros días tras su apertura al público. Con el último grupo se consiguió, con una relativa efectividad, que sincronizaran los aplausos mientras montábamos el experimento.
+
+## Crítica a mi implicación en el experimento
+
+La primera vez que hablo a un grupo de personas de una forma cercana, sin tener ninguna relación con ellas y sin saber muy bien qué dinámica va a haber en el grupo, me entran bastantes nervios. Supongo que es algo natural y que a todos nos ha pasado, nos pasa y nos seguirá pasando. Probablemente eso haya provocado que me alargara constantemente en las explicaciones del experimento. Por mucho que me hubiera preparado una charla para una duración determinada, las preguntas del alumnado, lo motivados que se les ve, si se distraen o no, etc., siempre se producía algún retraso. El hecho de empezar algo tarde por tener que buscar un docente de guardia para estar con nosotras, tampoco ayudó. Por supuesto, no hay nada que culpar en este caso, pues es una situación que en cualquier momento le puede ocurrir a cualquiera, pero me hizo estar más nervioso. Con cada uno de los tres grupos probé con pequeñas variaciones de la explicación, primero preguntándoles qué creían que iba a pasar y por qué, y al final preguntando eso, pero también qué relación tenían todos esos fenómenos naturales con este experimento. Considero que, con el último grupo, haciéndoles aplaudir y preguntándoles todo, se consiguió una mayor atención que con el primer grupo.
+
+De las tres clases, he de decir que, si bien ya se sabían todos los experimentos, el segundo grupo fue el más respetuoso, el más tranquilo y el más interesado. En todos los grupos hubo alumnas y alumnos con interés que preguntaron con mucha curiosidad y fueron muy respetuosos, pero en el primer y tercer grupo el número de revoltosos era más alto. 
+
+Por último, si el experimento hubiera sido sólo para enseñarles cosas impactantes, sin estar tan relacionado con el temario de 3º de la ESO, habría preferido otro experimento más impactante, como el de la precesión de una rueda que está girando colgada de una cuerda ( [ver vídeo explicativo](https://youtube.com/shorts/jhwvCKrUq9U?si=795z8SVEWrBbzDjM) ). 
+
+## Comentario sobre la realización en general de todos los experimentos
+
+Muchos de los alumnos ya habían visto, la mayoría en *TikTok*, todos o la mayoría de los experimentos que se realizaron. Por un lado, me encanta que a esas edades utilicen esas redes sociales para ver vídeos que sean divulgativos, o simplemente experimentos interesantes. Por otro lado, se pierde bastante del factor sorpresa, si bien la curiosidad no se ve muy reducida.
+
+Todos los experimentos funcionaron sin ningún problema, destacando el experimento de la tensión superficial y el de la lata que implosiona. Al final, ver colores que se mueven o una lata que con un estruendo se aplasta impacta bastante, visualmente. Todos los compañeros explicaron estupendamente bien cada uno de los experimentos realizados, buscando buenas relaciones entre el experimento a relacionar y situaciones de la vida cotidiana, o acontecimientos como el submarino que sufrió una implosión hace unos meses. Se buscó la participación activa del alumnado en todos los experimentos, buscando la diversidad entre chicas y chicos, que a veces fue algo complicado, ya que en el primer y tercer grupo hubo ciertos chicos que querían participar en todo. 
+
+## Valoración personal
+
+Personalmente, ha sido una experiencia bastante enriquecedora. Poder explicar fenómenos, conceptos, etc., a una clase, de una forma distendida, pero buscando inspirar y educar es algo que nunca había hecho. Llevo tres años trabajando en una academia de refuerzo escolar, pero al ser algo más focalizado en cada persona y asignatura, la experiencia en comparación es muy diferente. Estoy convencido de que, si volviera a realizar la actividad, habría buscado condensar un poco más todo, para tener más margen en caso de alargarme con las explicaciones. En términos generales, ha sido una buena aproximación a lo que nos puede esperar en un centro: tener que planificar todo, la disposición, buscar la participación y la atención, estar cerca de los alumnos un poco más revoltosos para evitar que se desmadren, vigilar las palabras a utilizar, que todo sea seguro, ver las reacciones de cada uno de los alumnos, etc. Por supuesto, es una situación infinitamente más distendida que una clase normal. 
+
+Me ha hecho darme cuenta de ciertos errores a la hora de explicar, de la importancia de mirar a todas las personas a la cara y mantener un campo visual que los incluya a todos y de que, por mucho que diga que no, ciertas cosas que no me gustaban de algunos profesores las hago yo también (como no asegurarme en condiciones de si todas y todos lo han entendido). Si antes quería dedicar mi vida a la docencia, ahora lo quiero mucho más.
+
 # Documento de la actividad 9
 
-\includepdf[page=-]{Actividad9_DavidDominguezRoman.pdf}
