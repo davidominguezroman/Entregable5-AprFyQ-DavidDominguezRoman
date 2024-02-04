@@ -1,0 +1,84 @@
+---
+title: "Entregable 5"
+author: 
+  - David Domínguez Román 
+  
+  - Aprendizaje y Enseñanza de FyQ
+  
+  - Máster de Educación Secundaria FyQ
+  
+  - Universidad de La Rioja
+lang: es
+tbl-cap-location: bottom
+format: 
+  pdf:
+      documentclass: article
+      papersize: a4
+      number-sections: true
+      colorlinks: true
+      mainfont: Arial
+      sansfont: Arial
+      fontfamilyoptions: sfdefault
+      fontsize: 12pt
+      spacing: onehalf
+      section-numbering: true
+      linestretch: 1.5
+      whitespace: none
+      indent: true
+      geometry: 
+        - top=2.5cm
+        - bottom=2.5cm
+        - left=3cm
+        - right=3cm
+      first-line-indent:
+          size: 0.5em
+      header-includes:
+        - \setlength\parindent{0.5cm}
+        - \usepackage{indentfirst}
+        - \usepackage{setspace}
+        - \onehalfspacing
+        - \usepackage{titling}
+        - \usepackage{pdfpages}
+      include-in-header:
+        text: |
+          \usepackage[font=footnotesize,labelfont={bf,footnotesize}]{caption}
+---
+# Consideraciones iniciales {.unnumbered}
+
+Toda la información relativa a lo primeramente organizado (actividad 9) se encuentra otra vez en este documento, en el apartado final.
+
+# Organización final de los experimentos
+
+De los experimentos que se decidieron realizar, finalmente hubo algún cambio, quedando la disposición de los experimentos de la siguiente manera:
+
++-------+------------------------------+-------------------------------+
+| Orden | Experimento                  | Personas implicadas           |
++:=====:+:============================:+:=============================:+
+| 1     | Tensión superficial          | -   Cristina Frías García     |
+|       |                              |                               |
+|       |                              | -   Laura Ocabo Gómez         |
++-------+------------------------------+-------------------------------+
+| 2     | Pigmentos termocrómicos      | -   Eva Ciria Jiménez         |
+|       |                              |                               |
+|       |                              | -   Ainara Terrazas Bartolomé |
++-------+------------------------------+-------------------------------+
+| 3     | Orbeez invisibles            | -   Mikel Granado Millo       |
+|       |                              |                               |
+|       |                              | -   Laura Puente Pascual      |
++-------+------------------------------+-------------------------------+
+| 4     | Sincronización de metrónomos | -   David Domínguez Román     |
+|       |                              |                               |
+|       |                              | -   Mikel Granado Millo       |
++-------+------------------------------+-------------------------------+
+| 5     | Lata que implosiona          | -   Eva Ciria Jiménez         |
+|       |                              |                               |
+|       |                              | -   Ainara Terrazas Bartolomé |
++-------+------------------------------+-------------------------------+
+
+: Orden de los experimentos y personas implicadas.
+
+Por supuesto, todos colaboramos en cierta medida a la organización, ejecución y limpieza de cada experimento. Se decidió que el experimento del derrame de petróleo se quitara de la lista por no ser lo suficientemente atractivo. El experimento de la sincronización de metrónomos estuvo a punto de verse cancelado por no poder conseguir los metrónomos, pero al final se encontró una manera de obtenerlos.
+
+# Documento de la actividad 9
+
+\includepdf[page=-]{Actividad9_DavidDominguezRoman.pdf}
